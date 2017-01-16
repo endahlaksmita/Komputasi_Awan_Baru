@@ -4,6 +4,4 @@ handlers:
 
 - url: /.*
   script: index.php
-  
-- url: /assets/css
-static_dir: css
+
