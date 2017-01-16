@@ -5,5 +5,5 @@ handlers:
 - url: /.*
   script: index.php
   
-- url: /asset/css
+- url: /assets/css
 static_dir: css
